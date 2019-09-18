@@ -21,4 +21,6 @@ body {
 .landing-text h2 {
 	font-weight: 300%;
 }
-
+.btn {
+	cursor: pointer;
+}
